@@ -5,7 +5,7 @@
  */
 
 .MMM-Lunartic .header {
-  color: white;               /* Header color. Default is white. */
+/*  color: white;               /* Header color. Default is white. */
 }
 
 .MMM-Lunartic img.photo {
@@ -13,41 +13,41 @@
   max-width: 100%;
   margin-left: 0px;          /* Precisely align moon picture with these */
   margin-right: 0px;
-  margin-top: 0px;         /* -41px for current. -21px for animation or static. */
-  margin-bottom: -60px;      /* -51px for current. -21px for animation or static. */
+  margin-top: -35px;         /* -41px for current. -21px for animation or static. */
+  margin-bottom: -51px;      /* -51px for current. -21px for animation or static. */
 }
 
 .MMM-Lunartic .age {
-  color: white;               /* Age color. Default is white. */
+/*  color: white;               /* Age color. Default is white. */
   /*  display: none; */       /* uncomment if you don't want this */
 }
 
 .MMM-Lunartic .illumination {
-  color: white;               /* illumination color. Default is white. */
+ /* color: white;               /* illumination color. Default is white. */
   /*  display: none; */       /* uncomment if you don't want this */
 }
 
 .MMM-Lunartic .stage {
-  color: white;               /* stage color. Default is white. */
+/*  color: white;               /* stage color. Default is white. */
   /*  display: none; */       /* uncomment if you don't want this */
 }
 
 .MMM-Lunartic .DFCOE {
-  color: white;               /* DFCOE color. Default is white. */
+/*  color: white;               /* DFCOE color. Default is white. */
   /*  display: none; */       /* uncomment if you don't want this */
 }
 
 .MMM-Lunartic .DFS {
-  color: white;               /* DFS color. Default is white. */
+/*  color: white;               /* DFS color. Default is white. */
   /*  display: none; */       /* uncomment if you don't want this */
 }
 
 .MMM-Lunartic .nextFullMoon {
-  color: white;               /* nextFullMoon color. Default is white. */
+/*  color: white;               /* nextFullMoon color. Default is white. */
   /*  display: none; */       /* uncomment if you don't want this */
 }
 
 .MMM-Lunartic .nextNewMoon {
-  color: white;               /* nextNewMoon color. Default is white. */
+/*  color: white;               /* nextNewMoon color. Default is white. */
   /*  display: none; */       /* uncomment if you don't want this */
 }
