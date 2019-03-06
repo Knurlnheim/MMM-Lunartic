@@ -8,13 +8,14 @@
   "The moon is ": "La lune est illuminée à ",
   "% illuminated": "%",
   " days old": " jours",
-  "When the Moon hits your eye . . .": "Chargement. . .",
-  "New Moon Phase": "Nouvelle lune",
+  "When the Moon hits your eye . . .": "Chargement...",
   "Waxing Crescent Moon": "Lune croissante",
   "First Quarter Half Moon": "Premier quartier de lune",
   "Waxing Gibbous Moon": "Lune gibbeuse croissante",
   "Full Moon": "Pleine lune",
   "Waning Gibbous Moon":"Lune gibbeuse décroissante",
   "Third Quarter Half Moon": "Dernier quartier de lune",
-  "Waning Crescent Moon":"Lune décroissante"
+  "Waning Crescent Moon":"Lune décroissante",
+  "New Moon - No visible moon":"Nouvelle lune - Pas de lune visible"
+
 }
